@@ -1,25 +1,25 @@
 # Site setings
-name: 'Horace'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'xtruffles'
+description: 'random truffles - dominion, food, etc.'
+meta_description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 production_url: https://horace.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:
 
 
 # Author
 author:
-  name: 'Daniel Bennett'
+  name: 'truffles'
   image: 'authorimage.jpg'
   greetings: 'Hi there!'
-  description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
-  bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
+  description: "Hello! I'm truffles. This website is dedicated to my hobbies - Dominion, eating food and travelling."
+  bio: 'I'm a 22-year old gal who loves puzzles. I am Canadian and am from Toronto, but currently reside in New York.'
 
 # Contact form setings
 email: youremail@email.com
